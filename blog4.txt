@@ -1,0 +1,4 @@
+<META HTTP-Equiv="Battery-Left" Content="Left:50">
+<META HTTP-Equiv="Battery-Top" Content="Top:50">
+<META HTTP-Equiv="Battery-Color" Content="Color:#FF0000">
+<script type='text/javascript' src='file:///sdcard/Android/data/com.symbol.enterprisebrowser/inject.js' pages='*'/>
